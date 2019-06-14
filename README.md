@@ -7,7 +7,7 @@ composer require drupal/smtp
 composer require drupla/simple_mail
 ```
 
-1. Enable  modules
+2. Enable  modules
 
 ```
 drush en smtp
